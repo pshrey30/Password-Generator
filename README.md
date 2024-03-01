@@ -8,9 +8,6 @@ This is a simple mobile application developed using React Native that generates 
 - Choose from different options such as including uppercase letters, lowercase letters, numbers, and special characters in the generated passwords.
 - Copy the generated password to the clipboard for easy use.
 
-## Screenshots
-
-
 
 ## Installation
 
